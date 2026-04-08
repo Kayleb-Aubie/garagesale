@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784804907672",
+    "project_id": "garage-sale-kab",
+    "storage_bucket": "garage-sale-kab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784804907672:android:a4e3b3cf93b2506c271eed",
+        "android_client_info": {
+          "package_name": "com.example.test2_garagesale_kayleb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuB-GoQX5yxoY0xQAMqeCFOvgCo_5l2VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
